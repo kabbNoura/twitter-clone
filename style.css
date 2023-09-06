@@ -125,3 +125,15 @@ section {
 background-color:var(--primary);
 color: whitesmoke;
 } */
+main{
+  width: 71%;
+  height: 100%;
+  margin-left: 29%;
+}
+.main-part{
+  display: flex;
+  width: 100%;
+}
+.main-one{
+  
+}
