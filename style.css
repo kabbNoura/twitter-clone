@@ -135,5 +135,20 @@ main{
   width: 100%;
 }
 .main-one{
-  
+  width: 50%;
+  border-left: 1px solid #4d4a4a;
+  border-right: 1px solid #4d4a4a;
+}
+.home-bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 55px;
+  width: 100%;
+  padding: 0 16px;
+  font-size: 2rem;
+  color: #99098f;
+  background-color: white;
+  position: sticky;
+  top:0;
 }
